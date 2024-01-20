@@ -2,7 +2,7 @@
 title: '关于'
 date: 2024-01-20 11:54:45
 index_img: https://assets.wenlei.club/nextblog/202401201058490.png
-banner_img: /img/wallpaper.jpg
+banner_img: https://assets.wenlei.club/nextblog/202401201135761.jpg
 ---
 # 关于
 
