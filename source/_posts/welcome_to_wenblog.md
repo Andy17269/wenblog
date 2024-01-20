@@ -4,6 +4,7 @@ tags: [WenBlog, 重构]
 date: 2024-01-17 12:35:10
 description: WenBlog，现已重建。
 index_img: https://assets.wenlei.club/nextblog/202401161955507.png
+banner_img: https://assets.wenlei.club/nextblog/202401201135761.jpg
 ---
 
 # 欢迎来到WenBlog
