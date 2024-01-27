@@ -1,18 +1,17 @@
 ---
-title: '关于'
-date: 2024-01-20 11:54:45
-index_img: https://assets.wenlei.club/nextblog/202401201058490.png
 banner_img: https://assets.wenlei.club/nextblog/202401201135761.jpg
+date: '2024-01-20T11:54:45+08:00'
+index_img: https://assets.wenlei.club/nextblog/202401201058490.png
+title: 关于
+updated: '2024-01-27T10:38:13.055+08:00'
 ---
 # 关于
 
 欢迎来到 **WenBlog**（原干净T松鼠の博客），**WenBlog** 于 2021 年 8 月 24 日建立。
 
-
 ## 这个博客是谁的？
 
 目前，WenBlog 由 Andy17269（干净T松鼠）运营。
-
 
 ## 关于我
 
@@ -34,6 +33,11 @@ banner_img: https://assets.wenlei.club/nextblog/202401201135761.jpg
 
 ## 联系我
 
+直接联系：
 
 [<h4>Telegram</h4>](https://t.me/andy17269)
 [<h4>Email</h4>]()
+
+其它：
+
+[<h4>Github</h4>](https://github.com/Andy17269)
