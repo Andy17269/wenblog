@@ -1,7 +1,8 @@
 ---
 abbrlink: ''
 banner_img: https://assets.wenlei.club/nextblog/202401201135761.jpg
-categories: []
+categories:
+- - 公告
 date: '2024-01-17T12:35:10+08:00'
 description: WenBlog，现已重建。
 index_img: https://assets.wenlei.club/nextblog/202401161955507.png
@@ -9,7 +10,7 @@ tags:
 - WenBlog
 - 重构
 title: 欢迎来到WenBlog
-updated: '2024-01-27T11:04:14.116+08:00'
+updated: '2024-03-02T21:53:34.240+08:00'
 ---
 # 欢迎来到WenBlog
 
