@@ -1,7 +1,7 @@
 ---
-banner_img: https://assets.wenlei.club/nextblog/202401201135761.jpg
+banner_img: https://assets.wenlei.top/nextblog/202401201135761.jpg
 date: '2024-01-20T11:54:45+08:00'
-index_img: https://assets.wenlei.club/nextblog/202401201058490.png
+index_img: https://assets.wenlei.top/nextblog/202401201058490.png
 title: 关于
 updated: '2024-01-27T10:38:13.055+08:00'
 ---
