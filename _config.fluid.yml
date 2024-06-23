@@ -417,7 +417,7 @@ open_graph:
 footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
-  content: '<p>WenBlog&nbsp;2021-2024&nbsp;&nbsp;&nbsp;Andy17269</p>'
+  content: '<p>WenBlog&nbsp;2021-现在&nbsp;&nbsp;&nbsp;<srtong>AndyWen</strong></p>'
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
   statistics:
@@ -1093,4 +1093,4 @@ static_prefix:
 
   moment: https://lib.baomitu.com/moment.js/2.29.4/
 # 自定义head（统计）
-custom_html: '<script defer src="https://us.umami.is/script.js" data-website-id="746819e9-6d8b-41a5-8948-c13252a042cf"></script>'
+custom_html: '<script defer src="https://cloud.umami.is/script.js" data-website-id="746819e9-6d8b-41a5-8948-c13252a042cf"></script>'
